@@ -9,4 +9,4 @@ This is a project within the Junior Guru club, an active Czechoslovakian communi
 ## 📜 Challenges
 | Challenge No.  |  Challenge Name                                        | Time Frame                     |
 | :-:            | -------------                                          | ----                           |
-| 1              | [Hack Your Way to a New Job](challenge-1.md)           | November 2023 - January 2024   |
+| 1              | [Hack Your Way to a New Job](challenges/challenge-1.md)           | November 2023 - January 2024   |
