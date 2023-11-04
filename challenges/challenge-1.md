@@ -36,6 +36,9 @@ Create something that can help you or/and someone else find a new job. You can c
 ---
 
 ### Junior Guru Participants
-| GitHub Nickname                | Project Repository                                  | Project              |
-| ---                            | ---                                                 | ---                  | 
-| {github-nickname}              | {project-repository}                                | {project-type}       |
+| Nickname                                                              | Project                           | Project Repository                                                      |                                                      
+| ---                                                                   | ---                               | ---                                                                     | 
+| [Bershee](https://github.com/PavlaBerankova)                          | Job search tracking tool          | https://github.com/PavlaBerankova/CareerPathLog                         |
+| [Wewa](https://github.com/VeveCambor)                                 | Project planning app              | https://github.com/VeveCambor/CompanyToDoAPP                            |
+| [Marketulinek](https://github.com/marketulinek)                       | GitHub profile analyzer           | https://github.com/marketulinek/phantie-guide                           |
+| [Milek](https://github.com/milojezek)                                 | Chickenbook                       | https://github.com/milojezek/chickenbook                                |
