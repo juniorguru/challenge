@@ -7,6 +7,6 @@ This is a project within the Junior Guru club, an active Czechoslovakian communi
 - Will and desire to create something and work on yourself in your free time
 
 ## 📜 Challenges
-| Challenge No.  |  Challenge Name                                        | Time Frame                     |
-| :-:            | -------------                                          | ----                           |
-| 1              | [Hack Your Way to a New Job](challenges/challenge-1.md)           | November 2023 - January 2024   |
+| Challenge No.  |  Challenge Name                                                   | Time Frame                     | Participants  |      
+| :-:            | -------------                                                     | ----                           | --:           |
+| 1              | [Hack Your Way to a New Job](challenges/challenge-1.md)           | November 2023 - January 2024   | 4             |
