@@ -43,6 +43,7 @@ Create something that can help you or/and someone else find a new job. You can c
 | [Marketulinek](https://github.com/marketulinek)                       | GitHub profile analyzer           | https://github.com/marketulinek/phantie-guide                           |
 | [Milek](https://github.com/milojezek)                                 | Chickenbook                       | https://github.com/milojezek/chickenbook                                |
 | [Pavol](https://github.com/PavolCu)                                 | Job posting analyzer                | https://github.com/PavolCu/JobPosting-Scraper-analyzer                               |
-| [Aberrante](https://github.com/Aberran) & DoctorJT                    | Chickenbook                         | https://github.com/Aberran/ChickenDjangoBook                                |
+| [Aberrante](https://github.com/Aberran) & [DoctorJT](https://github.com/trnecka) | Chickenbook                         | https://github.com/Aberran/ChickenDjangoBook                                |
 | [Terez](https://github.com/TerezaHamerova)                             | Portfolio/Personal web            |  https://github.com/TerezaHamerova/webovky-Terez                             |
 | [Domi](https://github.com/domihustinova)                                | Learning tracker                    | https://github.com/domihustinova/learning-tracker                                |
+| [David](https://github.com/david-gamba)                                | Chickenbook                   | https://github.com/david-gamba/Chickenbook                                |
