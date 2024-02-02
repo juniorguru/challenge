@@ -5,7 +5,8 @@ Join this challenge and make your GitHub contribution graph greener. This is a l
 
 **Rules:**
 - Push code to GitHub daily for at least **20** days in February.
-- Time spent coding at work doesn't count.
+- Code created at work doesn't count.
+- Pushed commit(s) must be in a public repository.
 - You can work on your project, code challenges or study with a course.
 
 **Optional:**
