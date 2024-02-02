@@ -13,6 +13,7 @@ Join this challenge and make your GitHub contribution graph greener. This is a l
 - Push code to GitHub every day without a break.
 - Separate the changes you make to logical commits as much as possible.
 - Write everything in English.
+- Choosing one goal for these 20 days is recommended.
 
 </br>
 
