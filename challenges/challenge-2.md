@@ -19,3 +19,14 @@ Join this challenge and make your GitHub contribution graph greener. This is a l
 </br>
 
 There will be a group chat dedicated to this challenge on the Junior Guru Discord server. The purpose of this chat will be to track our progress. It can be used as a simple form of journaling mentioned in optional rules.
+
+### Junior Guru Participants
+- [Bershee](https://github.com/PavlaBerankova)
+- [Wewa](https://github.com/VeveCambor)
+- [Milek](https://github.com/milojezek)
+- [Aberrante](https://github.com/Aberran)
+- [DoctorJT](https://github.com/trnecka)
+- [Arges](https://github.com/Elliska)
+- [Dale](https://github.com/tethal)
+- [Martin147](https://github.com/MartinKohoutek)
+- [Lenka N](https://github.com/NikoLenCZ)
