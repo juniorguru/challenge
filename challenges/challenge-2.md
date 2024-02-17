@@ -23,10 +23,8 @@ There will be a group chat dedicated to this challenge on the Junior Guru Discor
 ### Junior Guru Participants
 - [Bershee](https://github.com/PavlaBerankova)
 - [Wewa](https://github.com/VeveCambor)
-- [Milek](https://github.com/milojezek)
 - [Aberrante](https://github.com/Aberran)
 - [DoctorJT](https://github.com/trnecka)
-- [Arges](https://github.com/Elliska)
 - [Dale](https://github.com/tethal)
 - [Martin147](https://github.com/MartinKohoutek)
 - [Lenka N](https://github.com/NikoLenCZ)
